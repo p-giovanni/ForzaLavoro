@@ -5,17 +5,20 @@ I was curious to satisfy some curiosity I had about the composition the Italian 
 
 - nationality composition;
 - gender;
-- education qualification
+- education qualification;
 - contract type;
+- occupational status;
 
 The result are some chart that you can find in the [images](./images/) directory.
 
+## Disclaimer
+I do know very well Pandas, Matplotlib and I had a fairly good education in statistics, but as all the programmers I do bugs.
+So beware, I have checked the results as carefully as I can but 
+
 ## The dataset
-I downloaded the data from the [Istat](https://www.istat.it/it/), main Italian statistic institute.
+I downloaded the data from the [Istat](https://www.istat.it/it/) site. Istat is the main Italian statistic institute.
 
-You wont find the dataset in this repository because I do not own it but you can freely download the data files in various format (my program uses the tab separated file format) from the Istat site (a registration is required).
-
-
+You won't find the dataset in this repository because I do not own it, but you can freely download the data files and all the metadata files (my program uses the tab separated file format) from the Istat site (a registration is required).
 
 ## Installation and build
 Clone this repository and than:
@@ -24,4 +27,8 @@ Clone this repository and than:
 python3 -m venv venv
 source ./venv/bin/activate
 pip install -r requirements.txt
+```
+To run **Jupyter** use this command:
+```bash
+jupyter notebook --notebook-dir <path to your installation>/ForzaLavoro --port=9191
 ```
