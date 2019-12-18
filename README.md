@@ -5,7 +5,7 @@ I was curious to satisfy some curiosity I had about the composition the Italian 
 
 - nationality composition;
 - gender;
-- education qualification;
+- education level;
 - contract type;
 - occupational status;
 
