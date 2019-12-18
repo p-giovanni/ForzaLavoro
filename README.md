@@ -9,11 +9,12 @@ I was curious to satisfy some curiosity I had about the composition the Italian 
 - contract type;
 - occupational status;
 
-The result are some chart that you can find in the [images](./images/) directory.
+The result are some chart that you can find in the [images](./images/) directory (sorry not translated in English).
 
 ## Disclaimer
 I do know very well Pandas, Matplotlib and I had a fairly good education in statistics, but as all the programmers I do bugs.
-So beware, I have checked the results as carefully as I can but 
+So beware, I have checked the results as carefully as I can but nevertheless do not take for granted my result, check by yourself my 
+code and decide it it is correct or not.
 
 ## The dataset
 I downloaded the data from the [Istat](https://www.istat.it/it/) site. Istat is the main Italian statistic institute.
