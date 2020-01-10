@@ -37,5 +37,5 @@ To run **Jupyter** use this command:
 ```bash
 jupyter notebook --notebook-dir <path to your installation>/ForzaLavoro --port=9191
 ```
-The browser should automatically open with showing a page containing the link to my notebook.
+The browser should automatically open showing a page containing the link to my notebook.
 
