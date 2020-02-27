@@ -1,7 +1,7 @@
 # ForzaLavoro
 This is a [Jupyter](https://jupyter.org/) project that I used to explore a dataset about the Italian work force.
 
-I was curious to satisfy some curiosity I had about the composition the Italian work force, here some:
+I wanted to satisfy some curiosity I had about the composition the Italian work force, here some:
 
 - nationality composition;
 - gender;
